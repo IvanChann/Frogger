@@ -1,0 +1,57 @@
+BODY,
+H2,
+H3,
+H4,
+H5,
+H6,
+TH,
+TD {
+    font-family: arial, helvetica, sans-serif;
+}
+
+H1 {
+    font-size: 38px;
+    font-family: arial, helvetica, sans-serif;
+}
+
+svg {
+    background-color: rgb(41, 41, 36);
+}
+
+p.highlight {
+    color: red;
+}
+
+.gameover {
+    font-family: sans-serif;
+    fill: royalblue;
+    font-size: 80px;
+    text-shadow: 1px 1px 2px black;
+}
+.plank {
+    outline-offset: -1px;
+    outline: 2px solid white;
+}
+
+.target {
+    outline-offset: -5px;
+    outline: 5px solid black;
+}
+
+.restart {
+    font-family: sans-serif;
+    fill: white;
+    font-size: 30px;
+    text-shadow: 1px 1px 2px black;
+}
+
+.scores {
+    font-family: sans-serif;
+    fill: white;
+    font-size: 30px;
+    text-shadow: 1px 1px 2px black;
+}
+
+.frog{
+    background-color: transparent;
+}
